@@ -37,7 +37,7 @@ Backend:
 
 vendigo/
 ├── smart-vending-api # Backend
-├── vendigo-admin # Frontend
+├── vendigo-admin-main # Frontend
 └── README.md
 
 ---
@@ -90,6 +90,7 @@ npm run dev
 * Inventory control
 * Graphs that update by machine
 * Dashboard with totals
+* Pie chart containing products
 
 ---
 
