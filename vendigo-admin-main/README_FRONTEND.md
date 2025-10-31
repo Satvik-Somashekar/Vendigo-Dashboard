@@ -151,17 +151,4 @@ npm run build
 
 The built files will be in the `dist/` directory, ready for deployment to any static hosting service.
 
-## Contributing
-
-This is a Lovable-generated project. To make changes:
-
-1. Use the Lovable editor at https://lovable.dev
-2. Or clone and edit locally, then push changes
-3. Changes pushed to GitHub will sync with Lovable
-
-## Support
-
-For issues or questions:
-- Check the [Lovable Documentation](https://docs.lovable.dev)
-- Review API service code in `src/services/api.ts`
-- Verify backend is running and endpoints are correct
+## Made by Satvik Somashekar
