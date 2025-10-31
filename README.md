@@ -36,7 +36,7 @@ Backend:
 ## Folder Structure
 
 vendigo/
-├── smart-vending-api # Backend
+├── vendigo # Backend
 ├── vendigo-admin-main # Frontend
 └── README.md
 
